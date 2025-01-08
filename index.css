@@ -1,0 +1,17 @@
+ 
+
+body {
+    background-color:aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+}
+form {
+    background-color:lightgray;
+    border: 1px solid wheat;
+    border-radius: 6px;
+    padding: 10px;
+    width: 400px;   
+}
+ 
